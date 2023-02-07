@@ -98,3 +98,29 @@ footer a {
   display: flex;
   flex-direction: column;
 }
+
+/* fine footer */
+.ending {
+  width: 95%;
+  min-height: 100px;
+  border-top: 1px solid #6D85D7;
+}
+
+.ending img {
+  float: left;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.btn-registrati {
+  margin-top: 20px;
+  width: 90px;
+  min-height: 40px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 2.5;
+  background-color: #7289DA;
+  color: #fff;
+  border-radius: 30px;
+  float: right;
+}
