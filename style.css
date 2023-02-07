@@ -51,3 +51,24 @@ h4 {
   margin-top: 20px;
   cursor: pointer;
 }
+
+/* prodotto */
+.product {
+  width: 15%;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+h5 {
+  color: #6D85D7;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #eee;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
