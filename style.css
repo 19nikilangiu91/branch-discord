@@ -1,254 +1,259 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 body {
-  background-color: red;
+    background-color: red;
 }
 
 /* footer */
 footer {
-  width: 100%;
-  min-height: 600px;
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  padding: 80px 100px 40px 130px;
-  background-color: #23272A;
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 80px 100px 40px 130px;
+    background-color: #23272A;
 }
 
 /* sezione lingua */
 .icon-section {
-  width: 25%;
-  min-height: 300px;
+    width: 25%;
+    min-height: 300px;
 }
 
 h4 {
-  color: #6D85D7;
-  font-size: 35px;
-  margin-bottom: 20px;
+    color: #6D85D7;
+    font-size: 35px;
+    margin-bottom: 20px;
 }
 
 #flag {
-  width: 20px;
-  height: auto;
+    width: 20px;
+    height: auto;
 }
 
 #ita,
 .fa-angle-down {
-  color: #eee;
+    color: #eee;
 }
 
 .fa-twitter,
 .fa-instagram,
 .fa-square-facebook,
 .fa-youtube {
-  color: #eee;
-  margin-right: 20px;
-  margin-top: 20px;
-  cursor: pointer;
+    color: #eee;
+    margin-right: 20px;
+    margin-top: 20px;
+    cursor: pointer;
 }
 
 /* prodotto */
 .product {
-  width: 15%;
-  min-height: 300px;
-  display: flex;
-  flex-direction: column;
+    width: 15%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 h5 {
-  color: #6D85D7;
-  font-size: 15px;
-  margin-bottom: 20px;
+    color: #6D85D7;
+    font-size: 15px;
+    margin-bottom: 20px;
 }
 
 footer a {
-  text-decoration: none;
-  color: #eee;
-  margin-bottom: 20px;
-  font-size: 15px;
+    text-decoration: none;
+    color: #eee;
+    margin-bottom: 20px;
+    font-size: 15px;
 }
 
 /* compagnia */
 .company {
-  width: 15%;
-  min-height: 300px;
-  display: flex;
-  flex-direction: column;
+    width: 15%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* risorse */
 .resources {
-  width: 15%;
-  min-height: 300px;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 20px;
+    width: 15%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
 
 }
 
 /* norme */
 .norme {
-  width: 15%;
-  min-height: 300px;
-  display: flex;
-  flex-direction: column;
+    width: 15%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* fine footer */
 .ending {
-  width: 95%;
-  min-height: 100px;
-  border-top: 1px solid #6D85D7;
+    width: 95%;
+    min-height: 100px;
+    border-top: 1px solid #6D85D7;
 }
 
 .ending img {
-  float: left;
-  margin-top: 20px;
-  cursor: pointer;
+    float: left;
+    margin-top: 20px;
+    cursor: pointer;
 }
 
 .btn-registrati {
-  margin-top: 20px;
-  width: 90px;
-  min-height: 40px;
-  text-decoration: none;
-  text-align: center;
-  line-height: 2.5;
-  background-color: #7289DA;
-  color: #fff;
-  border-radius: 30px;
-  float: right;
+    margin-top: 20px;
+    width: 90px;
+    min-height: 40px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 2.5;
+    background-color: #7289DA;
+    color: #fff;
+    border-radius: 30px;
+    float: right;
 }
 
 .j-intestazione {
-  /* height: 700px; */
-  width: 100%;
-  background-image: url(img/jumbo.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-top: 10px;
-  padding-bottom: 80px;
+    /* height: 700px; */
+    width: 100%;
+    background-image: url(img/jumbo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10px;
+    padding-bottom: 80px;
 }
 
 .j-discord {
-  /* height: 80px; */
-  width: 70%;
-  margin: auto;
-  margin-bottom: 70px;
-  /* background-color: blueviolet; */
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    /* height: 80px; */
+    width: 70%;
+    margin: auto;
+    margin-bottom: 70px;
+    /* background-color: blueviolet; */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .j-link {
-  color: white;
-  font-size: 18px;
-  margin-right: 30px;
-  text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-right: 30px;
+    text-decoration: none;
 }
 
 .j-link-col2 {
-  color: black;
-  text-decoration: none;
+    color: black;
+    text-decoration: none;
 }
 
 .j-dsheader2 {
 
-  color: black;
-  position: absolute;
-  right: 0;
-  border-radius: 40px;
-  font-size: 16px;
-  padding: 10px 10px;
-  /* height: 40px; */
-  width: 90px;
-  background-color: white;
-  text-align: center;
+    color: black;
+    position: absolute;
+    right: 0;
+    border-radius: 40px;
+    font-size: 16px;
+    padding: 10px 10px;
+    /* height: 40px; */
+    width: 90px;
+    background-color: white;
+    text-align: center;
 
 
 
 }
 
 #j-dsheader {
-  font-size: 20px;
-  color: white;
+    font-size: 20px;
+    color: white;
 
-  position: absolute;
-  left: 0;
+    position: absolute;
+    left: 0;
 }
 
 .j-discord2 {
 
-  /* height: 200px; */
-  width: 100%;
-  margin: auto;
-  /* background-color: brown; */
-  margin-top: 150px;
+    /* height: 200px; */
+    width: 100%;
+    margin: auto;
+    /* background-color: brown; */
+    margin-top: 150px;
 }
 
 .j-testoheader {
-  font-size: 50px;
-  color: white;
-  text-align: center;
+    font-size: 50px;
+    color: white;
+    text-align: center;
 
 }
 
 .j-testoheader2 {
-  margin-top: 25px;
-  font-size: 20px;
-  color: white;
-  text-align: center;
-  line-height: 30px;
+    margin-top: 25px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
 }
+
 
 .j-discord3 {
 
-  /* height: 100px; */
-  width: 40%;
-  margin: auto;
-  /* background-color: blanchedalmond; */
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  padding-top: 30px;
+    /* height: 100px; */
+    width: 40%;
+    margin: auto;
+    /* background-color: blanchedalmond; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
 }
 
 .j-box1 {
-  color: black;
-  border-radius: 40px;
-  font-size: 20px;
-  padding-top: 10px;
-  /* height: 50px; */
-  width: 220px;
-  background-color: white;
-  text-align: center;
-  /* margin-right: -120px; */
-  padding: 15px 0;
+    color: black;
+    border-radius: 40px;
+    font-size: 20px;
+    padding-top: 10px;
+    /* height: 50px; */
+    width: 220px;
+    background-color: white;
+    text-align: center;
+    /* margin-right: -120px; */
+    padding: 15px 0;
 
 
 }
 
 .j-box2 {
-  color: white;
-  background-color: #23272a;
-  border-radius: 40px;
-  font-size: 20px;
-  padding-top: 10px;
-  /* height: 50px; */
-  /* width: 340px; */
-  text-align: center;
-  /* padding: 15px 30px; */
-  padding: 15px 10px;
+    color: white;
+    background-color: #23272a;
+    border-radius: 40px;
+    font-size: 20px;
+    padding-top: 10px;
+    /* height: 50px; */
+    /* width: 340px; */
+    text-align: center;
+    /* padding: 15px 30px; */
+    padding: 15px 10px;
 }
 
 .j-link-col {
-  color: white;
-  text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+
+#j-black {
+    color: black;
 }
