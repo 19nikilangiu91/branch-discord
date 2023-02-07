@@ -80,3 +80,13 @@ footer a {
   display: flex;
   flex-direction: column;
 }
+
+/* risorse */
+.resources {
+  width: 15%;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+
+}
