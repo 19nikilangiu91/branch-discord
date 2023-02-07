@@ -4,6 +4,22 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: red;
+.section-two {
+    background-color: rgba(246, 246, 246, 255);
+}
+
+.section_2_column-container {
+    display: flex;
+    width: 80%;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+.section_2_small-column {
+    width: 40%;
+}
+
+.section_2_titolo-sezione {
+    font-size: 50px;
+    margin-bottom: 20px;
 }
