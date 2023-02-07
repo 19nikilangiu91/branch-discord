@@ -63,3 +63,67 @@
     position: absolute;
     left: 0;
 }
+
+.j-discord2 {
+
+    /* height: 200px; */
+    width: 100%;
+    margin: auto;
+    /* background-color: brown; */
+    margin-top: 150px;
+}
+
+.j-testoheader {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+
+.j-testoheader2 {
+    margin-top: 25px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+
+.j-iscord3 {
+
+    /* height: 100px; */
+    width: 40%;
+    margin: auto;
+    /* background-color: blanchedalmond; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.j-box1 {
+    color: black;
+    border-radius: 40px;
+    font-size: 20px;
+    padding-top: 10px;
+    /* height: 50px; */
+    width: 220px;
+    background-color: white;
+    text-align: center;
+    /* margin-right: -120px; */
+    padding: 15px 0;
+
+
+}
+
+.j-box2 {
+    color: white;
+    background-color: #23272a;
+    border-radius: 40px;
+    font-size: 20px;
+    padding-top: 10px;
+    /* height: 50px; */
+    /* width: 340px; */
+    text-align: center;
+    /* padding: 15px 30px; */
+    padding: 15px 10px;
+}
