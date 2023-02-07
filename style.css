@@ -90,3 +90,11 @@ footer a {
   margin-bottom: 20px;
 
 }
+
+/* norme */
+.norme {
+  width: 15%;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
