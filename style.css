@@ -7,3 +7,52 @@
 body {
     background-color: red;
 }
+
+
+/* .section-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+.container{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.study-group{
+    background-color: white;
+    height: 500px;
+    width: auto;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.colonna1{
+    /* background-color: bisque; */
+    width: 50%;
+}
+
+.img-section{
+    height: 370px;
+    width: auto;
+}
+
+.colonna2{
+    /* background-color: brown; */
+    width: 40%;
+}
+
+.colonna2 h2{
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.colonna2 p{
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 30px;
+}
