@@ -72,3 +72,11 @@ footer a {
   margin-bottom: 20px;
   font-size: 15px;
 }
+
+/* compagnia */
+.company {
+  width: 15%;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
