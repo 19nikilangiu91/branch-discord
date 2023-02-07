@@ -88,7 +88,7 @@
     line-height: 30px;
 }
 
-.j-iscord3 {
+.j-discord3 {
 
     /* height: 100px; */
     width: 40%;
@@ -126,4 +126,13 @@
     text-align: center;
     /* padding: 15px 30px; */
     padding: 15px 10px;
+}
+
+.j-link-col {
+    color: white;
+    text-decoration: none;
+}
+
+#j-black {
+    color: black;
 }
